@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_localhost__45645: 'http://localhost:45645/'}
+rosversion: '1.14.3
+
+  '
+run_id: a0977952-fd81-11e9-a42b-f816542517f0
